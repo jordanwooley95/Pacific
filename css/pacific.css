@@ -18,11 +18,10 @@ header {
   background-position: right;
   line-height: 400%;
   text-indent: 1em;
-  width: 100%;
 }
 
 nav {
-  padding-left: 15px;
+  padding-left: 1em;
   background-color: #bbeefd;
   color: white;
   font-weight: bold;
