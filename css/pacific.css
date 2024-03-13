@@ -28,19 +28,15 @@ header a {
 }
 
 header a:link {
-  color: red;
+  color: yellow; /*white for lab*/
 }
 
 header a:visited {
-  color: #ffffff;
+  color: #ffffff; /*working*/
 }
 
 header a:hover {
-  color: #91b5e9;
-}
-
-header a:active {
-  color: white;
+  color: #91b5e9; /*working*/
 }
 
 section {
@@ -59,7 +55,6 @@ nav ul {
 
 nav {
   width: 160px;
-  color: white;
   font-weight: bold;
   line-height: 200%;
   float: left;
@@ -72,25 +67,20 @@ nav a {
 }
 
 nav a:link {
-  color: #5c7fa3;
+  color: yellow; /*#5c7fa3 for lab */
 }
 
 nav a:visited {
-  color: #344873;
+  color: #344873; /*working*/
 }
 
 nav a:hover {
-  color: #a52a2a;
-}
-
-nav a:active {
-  color: white;
+  color: #a52a2a; /*working*/
 }
 
 h1 {
   font-size: 3em;
   letter-spacing: 0.25em;
-  color: #ffffff;
   margin-bottom: 0;
   margin-top: 0;
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -105,10 +95,6 @@ h2 {
 h3 {
   color: #000033;
   font-family: Georgia, "Times New Roman", Times, serif;
-}
-
-dt {
-  color: #002171;
 }
 
 footer {
