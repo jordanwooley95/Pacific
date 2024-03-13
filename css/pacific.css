@@ -160,3 +160,30 @@ main ul {
   background-size: 100% 100%;
   height: 300px;
 }
+
+td {
+  width: auto;
+  padding: 0.5em;
+  border: 2px solid #3399cc;
+  text-align: center;
+}
+
+th {
+  padding: 0.5em;
+  border: 2px solid #3399cc;
+  border-collapse: collapse;
+}
+
+table {
+  border: 2px solid #3399cc;
+  border-collapse: collapse;
+}
+
+.text {
+  text-align: left;
+  width: 60%;
+}
+
+tr:nth-of-type(odd) {
+  background-color: #f5fafc;
+}
