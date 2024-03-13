@@ -71,11 +71,11 @@ nav a:link {
 }
 
 nav a:visited {
-  color: #344873; /*working*/
+  color: #344873;
 }
 
 nav a:hover {
-  color: #a52a2a; /*working*/
+  color: #a52a2a;
 }
 
 h1 {
